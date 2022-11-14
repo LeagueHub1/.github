@@ -1,1 +1,1 @@
-# .github
+# LeagueHub Organization
